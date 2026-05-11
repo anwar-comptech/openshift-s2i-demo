@@ -1,0 +1,10 @@
+{
+    "name": "openshift-s2i-demo",
+    "version": "1.0.0",
+    "description": "Static REST endpoint for OpenShift S2I",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {}
+}
